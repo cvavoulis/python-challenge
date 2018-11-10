@@ -2,7 +2,7 @@
 
 I created a Python script for analyzing the financial records of a company. I used a financial data set called budget_data.csv. The dataset is composed of two columns: Date and Profit/Losses. I calculated the following: 
 
-![Screenshot](financial.png)
+![Screenshot](Financial.png)
 
 #pyPoll 
 
