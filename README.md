@@ -4,7 +4,7 @@ I created a Python script for analyzing the financial records of a company. I us
 
 ![Screenshot](Financial.png)
 
-#pyPoll 
+# pyPoll 
 
 I analyzed polling data from a data set called election_data.csv.  The dataset is composed of three columns: Voter ID, County, and Candidate. I calculated the following: 
 
